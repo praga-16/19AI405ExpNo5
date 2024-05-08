@@ -1,6 +1,6 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: pragstheesvaran AB
+### Name: pragatheesvaran AB
 
 ### Register Number: 212221240039
 
