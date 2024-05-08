@@ -1,8 +1,8 @@
 ## Ex-No-05--Implement Simple Hill Climbing Algorithm
 
-### Name: Yuvadarshini S
+### Name: pragstheesvaran AB
 
-### Register Number: 212221230126
+### Register Number: 212221240039
 
 ## Aim:
 Implement Simple Hill Climbing Algorithm and Generate a String by Mutating a Single Character at each iteration
